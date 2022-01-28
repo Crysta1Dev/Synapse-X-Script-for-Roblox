@@ -1,5 +1,5 @@
 # Synapse-X-Script-for-Roblox
-Idk I lke Lua and hacking in roblox is fun
+// Idk I lke Lua and hacking in roblox is fun
 local SELL_TRESHOLD = nil
 
 local LocalPlayer = game.Players.LocalPlayer
@@ -261,4 +261,4 @@ OpenButton.MouseButton1Click:Connect(function()
 	TopBar.Visible = true
 	OpenButton.Visible = false
 end)
-print("GUI LOADED")
+print("GUI LOADED") //
